@@ -2,7 +2,11 @@
 
 AES encryption/decryption in react native
 
-Supported ciphers: AES-256-CBC
+## Supported Ciphers
+
+* AES-256-CBC
+
+## Usage
 
 ```js
 var AES = require('react-native-aes')
